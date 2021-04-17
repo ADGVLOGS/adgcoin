@@ -1,5 +1,5 @@
  
-#ADGCOIN BANK
+//ADGCOIN BANK
 pragma solidity ^0.8.1;
 contract ADGCOIN {
     address payable private owner;
