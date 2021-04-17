@@ -1,4 +1,4 @@
-<img src="https://github.com/ADGVLOGS/adgcoin/blob/main/adgcoin.png" width="50" height="50">
+<img src="https://github.com/ADGVLOGS/adgcoin/blob/main/adgcoin.png" width="250" height="250">
 # ADGCOIN
 my crypto currency bank based of Ethereum
 
